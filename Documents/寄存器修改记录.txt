@@ -1,0 +1,10 @@
+1553BBeiFenRecv_stat  reg
+Beifen_on             reg
+Packs_err_num_Beifen
+FileCancel_Beifen
+1553BBeiFenRecv
+
+DiJian_data_Beifen
+A_sam_num_Beifen
+G_sam_num_Beifen
+A_scale_Beifen
